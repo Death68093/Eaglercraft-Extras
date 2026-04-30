@@ -2,14 +2,14 @@
   {
     "name": "EaglercraftX",
     "version": "u53",
-    "url": "/clients/1.8/eaglercraftx.html",
+    "url": "clients/1.8/eaglercraftx.html",
     "icon": "/assets/eaglercraftx.jpg",
     "author": "lax1dude, ayunami2000"
   },
   {
     "name": "Death Client",
-    "version": "All versions (click for laucnher)",
-    "url": "/clients/1.8/DeathClient.html",
+    "version": "All versions (click for launcher)",
+    "url": "../../clients/1.8/DeathClient.html",
     "icon": "/assets/eaglercraftx.jpg",
     "author": "Death68093"
   },
